@@ -1,0 +1,20 @@
+{
+"num_nodes": 80,
+"num_layers": 4,
+"num_samples": 20000,
+"num_epochs": 1,
+"batch_size": 10,
+"final_time": 10.0,
+"radius": 3.0,
+"diffusion": 1.0,
+"initial_learning_rate": 0.001,
+"data_pipeline_type": "csv",
+"data_path": "../data",
+"dtype": "float64",
+"final_activation": "linear",
+"ansatz": "radial, exponential",
+"fraction_of_space_to_be_plotted": 0.75,
+"activation": "swish",
+"initial_distribution": "Gaussian",
+"initial_variance": 0.01
+}

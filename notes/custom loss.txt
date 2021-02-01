@@ -1,0 +1,1 @@
+https://github.com/tensorflow/tensorflow/issues/39344  ---> Custom loss with derivative wrt input 
